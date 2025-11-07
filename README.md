@@ -1,7 +1,7 @@
 #Tampilan utama
-![Tampilan Barang](screenshots/barang.png)
-![Tampilan penjualan](screenshots/penjualan.png)
-![Tampilan pelanggan](screenshots/pelanggan.png)
+![Tampilan Barang](screenshot/barang.png)
+![Tampilan penjualan](screenshot/penjualan.png)
+![Tampilan pelanggan](screenshot/pelanggan.png)
 
 
 # 🖥️ Frontend - Inventori CRUD
