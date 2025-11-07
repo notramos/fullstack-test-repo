@@ -1,14 +1,15 @@
 #Tampilan utama
+<<<<<<< Updated upstream
 ![Tampilan Barang](screenshot/barang.png)
 ![Tampilan penjualan](screenshot/penjualan.png)
 ![Tampilan pelanggan](screenshot/pelanggan.png)
-
 
 # 🖥️ Frontend - Inventori CRUD
 
 Aplikasi web untuk mengelola barang, penjualan, dan pelanggan menggunakan **Next.js** dan **Tailwind CSS**.
 
 ## 🔧 Fitur
+
 - CRUD Barang
 - CRUD Penjualan (dengan item)
 - CRUD Pelanggan
@@ -17,13 +18,14 @@ Aplikasi web untuk mengelola barang, penjualan, dan pelanggan menggunakan **Next
 - Responsive (bisa di desktop & tablet)
 
 ## ▶️ Cara Jalankan
-```bash
+
+````bash
 cd frontend
 npm install
 cp .env.local.example .env.local  # Edit URL backend
 npm run dev
 
-## ✅ **2. README Backend (Sederhana)**  
+## ✅ **2. README Backend (Sederhana)**
 **Lokasi:** `inventori-crud/backend/README.md`
 
 ```md
@@ -47,3 +49,4 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
+````
